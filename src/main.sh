@@ -1,3 +1,3 @@
 echo "Hello, Git"
-echo "Changed version"
+echo "Modified version"
 pwd
